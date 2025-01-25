@@ -3,6 +3,12 @@
 
 # Graph/Euler : :triangular_flag_on_post:
 
+<img width="745" alt="image" src="https://github.com/user-attachments/assets/d3b27e3c-01cb-44e8-a664-6f20ee96d0a4" />
+
+<img width="597" alt="image" src="https://github.com/user-attachments/assets/e0d65097-d4ca-46db-a312-fe6aebd6f550" />
+
+
+
 <h1>Questions</h1>
 <table id = "example" class="SectionTable display" >
 		<thead>
